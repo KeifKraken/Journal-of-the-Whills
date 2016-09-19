@@ -58,7 +58,7 @@ Han Shoots First. All is well with the universe!
 
 
 
-<!-- Awesome Jabba Scene!!!
+Awesome Jabba Scene!!!
 ```
 
                                                               `.-::////::-..`                    
@@ -92,4 +92,6 @@ Han Shoots First. All is well with the universe!
   `:+oooooossh/                                                                                   
      `-/+ooo+-                                                                                    
 ```
-End Scene   -->
+Haaaaaaaaaan
+
+End Scene  
