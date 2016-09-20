@@ -9,10 +9,6 @@
                                    |    
 ```
 
-I lika da music
-da music is good
-I give you da music
-
 **[GREEDO]**  Going somewhere, Solo?
 
 **[HAN]**  Yes, Greedo. As a matter of fact, I
