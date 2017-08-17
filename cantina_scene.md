@@ -51,64 +51,10 @@ time.
 Han Shoots First. All is well with the universe!
 
 
-```
-                                 __ 1      1 __        _.xxxxxx.
-                 **[xxxxxxxxxxxxxx|##|xxxxxxxx|##|xxxxxxXXXXXXXXX|
- ____            **[XXXXXXXXXXXXXXXXXXXXX/.\||||||XXXXXXXXXXXXXXX|
-|::: `-------.-.__**[=========---___/::::|::::::|::::||X O^XXXXXX|
-|::::::::::::|2|%%%%%%%%%%%%\::::::::::|::::::|::::||X /
-|::::,-------|_|~~~~~~~~~~~~~`---=====-------------':||  5
- ~~~~                       |===|:::::|::::::::|::====:\O
-                            |===|:::::|:.----.:|:||::||:|
-                            |=3=|::4::`'::::::`':||__||:|
-                            |===|:::::::/  ))\:::`----':/
-                            `===|::::::|  // //~`######b
-                                `--------=====/  ######B
-                                                 `######b
-                                                  #######b
-                                                  #######B
-                                                  `#######b
-                                                   #######P
-                                                   `#####B
 
-```
 
 **[HAN]**  Sorry about the mess.
 
 
 
-<!-- Awesome Jabba Scene!!!
 
-
-                                                              `.-::////::-..`                    
-                                                           `:/+++++ooooooo+++/:.                 
-                                                         `-::------://+++/::---:::-`              
-                                                       .:/----::::----------:::::::-.             
-                                                     `:/:--:://////::----:://:://:/::-            
-                                                   `:/---:://++/++++::-----:/::o/+///:-           
-                                                 `:/--:-:::--//:/://----------:+///::---.         
-                                               `.-//:::::---:::::::-----------::::-----:::-`       
-                                             -//o+/----::://:::::/::::/::::+o+/:::::::::::://-`    
-                                             /++yoo///::::--------:ohyyys//syyys+:--:--:/+:/o+/    
-                                            -osyydso::/oyys+//:::///++osyyyyo+++//////+oo+/:+ys-    
-                                          ./syshmNmho///+/oyyyyysssssoo++++osssssysyys+/://+dyo+-   
-                                   ``..-:/+ossydNNNNdo+//++/////+/////:::::://:::/+/::/+//+dysoso`  
-                           `..---:////////oysyssssyyhdho+/+o+///:++++++///////+oo+//++++/. ohso+/:  
-                     ``.-::///////////+++++++++oyyysyhdmyo++ooo+////++ooooooo++///+++++ss  .dhoo+/`
-                 `.-://////////////++++oo++oyoshmmdhyyyhhyo+o+++++++/////////++++++++ohhy-  .oyyso-
-             `-::///////++++////+++++oooooshdddmmddyssssoos+//++++/////++++/////+++++syyy+    .+ys/
-           `-:///++++oo+oo+++++++++oooooooosyhhhhysosoosooo/::/++////++///+//++++++////osy/       `  
-         .:///++ossoossoooooooooooooooooo+oossooooooooooo+:::::::://////////////:::::://os:          
-       .://++oosssyyosssssoooooooooooooooooooooooooooooo/::::::::----::::::::::::::::////o.          
-     .:/++++ossyyyyhyssssssssssssssssossooooooooooooooo/:::::::::::::::::::::::::::://///:           
-   .://+oosssyhddhhhhyyyyyssssssooooooooosssssssssssso///::::::::::::::::::::://////////:            
- -////+ossyyhdmmo/:-..````.-:::////++oo++++oooooooo+////////////////////////////////++-             
-.////++osyyyymy`                       .--///+oooo++++++++///////////+++++++++++++++:`              
--///+++ooyhdm+                                 `.-:/+oo+++++++++++++++++o+++++++++:`                
-.++//++++osyyo`                                      `.-:/+ooooooooooooooooo/:-`                    
- -++++++++oossy`                                            `.----::::--..`                         
- `/ooo+++++oshd-                                                                                   
-  `:+oooooossh/                                                                                   
-     `-/+ooo+-                                                                                    
-
-End Scene   -->
