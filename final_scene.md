@@ -6,5 +6,7 @@ winks at her. She then repeats the ceremony with Luke, who
 is moved by the event. They turn and face the assembled
 troops, who all bow before them. Lastly, the Princess places
 a medallion around Chewbacca's and flots into the heavens.
+Chewbacca growls and Artoo beeps with happiness.
+
 
 Roll Credits
